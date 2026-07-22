@@ -1,0 +1,7 @@
+----------
+1. ERROR in /storage/emulated/0/.sketchware/mysc/601/app/src/main/java/legendary/streamer/skutil/clone/MainActivity.java (at line 170)
+	showMessage(e.toString());
+	^^^^^^^^^^^
+The method showMessage(String) is undefined for the type MainActivity
+----------
+1 problem (1 error)
